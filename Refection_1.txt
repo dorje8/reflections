@@ -1,0 +1,28 @@
+Reflection 1:
+
+Seeing the changes between the two files made it so I could immediately identify what was different. That way it was only a few lines I needed to pay attention to to find out where the mistake was made.  
+
+Reflection 2:
+
+History of versions can help you look back and see where you may have made a mistake and how you got to where you are now. It may be useful in saving things that were done correctly later on when a simple mistake is far back in the versions combining later work with an corrected mistake made earlier could help you be more efficient by not making you repeat something that was already done correctly. 
+
+Reflection 3:
+
+Automatic saves ensure that you don’t miss and interval of work completed, but they may not make logical saving points. Manual saving can alleviate this, but needs to be done by the use and is subject to user error. This could lead to larger losses if saving is not done at logical points. 
+
+Reflection 4:
+
+Git tracks changes across multiple files because with coding there are files that have dependancies on each other and changes in one file can affect another file. Git automatically tracks the relational changes so that everything is updated on it’s dependences. Google docs is meant to do quite the same thing and files primarily function independently of each other.
+
+Reflection 5:
+
+Git log allows you to see all the changes and Git diff allows you to compare the exact changes between two log entries. This essentially give you the ability to track and manage changes incrementally and in an automated and efficient manner.
+
+Reflection 6:
+
+Using version control makes it much easier to identify where changes that created bugs are and what exactly those changes are. It is a way of monitoring error tracking so you are not scrolling through tons of code to find one tiny error. If you make a change that does break something you can easily get back to the last piece of working code.
+
+Reflection 7:
+
+Now that I have git setup and a basis understanding. I’d like to learn some of the higher level functions useful in standard practice for more complex versioning and how that all works with collaboration for multiple programmers.
+
