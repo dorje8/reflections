@@ -26,11 +26,3 @@ Reflection 7:
 
 Now that I have git setup and a basis understanding. I’d like to learn some of the higher level functions useful in standard practice for more complex versioning and how that all works with collaboration for multiple programmers.
 
-Reflection 8:
-
-When you initialize a repository it creates a .git tracking file associated with the directory. You will still need to commit files to track changes on those files. 
-
-Reflections 9:
-
-The staging area is a place where files can be grouped before creating a commit with he files in mind. It is a way to separate out files for commits in a logical manner.
-
